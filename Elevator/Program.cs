@@ -10,6 +10,11 @@ namespace Elevator
     {
         static void Main(string[] args)
         {
+            //this must be done with do while
+
+            //elevetor tells at what floor you are
+
+            //tell at what floor you want to go
         }
     }
 }
