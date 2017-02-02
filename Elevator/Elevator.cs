@@ -10,5 +10,7 @@ namespace Elevator
     {
         private readonly int minFloor = 1;
         private readonly int maxFloor = 5;
+
+        public int Floor;
     }
 }
